@@ -1,6 +1,6 @@
 ---
 title: A simple post try
-date: 2020-06-08
+date: 2021-05-21
 tags:
 - demo-content
 - simple-post
