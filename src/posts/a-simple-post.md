@@ -5,6 +5,7 @@ tags:
 - demo-content
 - simple-post
 - blog
+image: "/images/demo-image-2.jpg"
 
 ---
 A simple post to demonstrate how a normal blog post looks on Hylia. Content is
